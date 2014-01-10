@@ -13,6 +13,8 @@ which uses JQuery ajax api to call the back end restful services.
   * Visit the following url from a browser: http://localhost:8080/spring-mvc-intro/
     * http://localhost:8080/rest-book-library/books.html
 
+* See it in action at: http://mybooks.weili.cloudbees.net/books.html
+
 
  
  
