@@ -1,4 +1,4 @@
-package org.weili.rest.resources;
+package org.wei.rest.resources;
 
 import java.net.MalformedURLException;
 import java.net.URI;
@@ -16,9 +16,9 @@ import javax.ws.rs.core.Response;
 import javax.ws.rs.core.UriBuilder;
 import javax.ws.rs.core.UriInfo;
 
-import org.weili.rest.dao.IBookDAO;
-import org.weili.rest.dao.InMemoryBookDAO;
-import org.weili.rest.domain.Book;
+import org.wei.rest.dao.IBookDAO;
+import org.wei.rest.dao.InMemoryBookDAO;
+import org.wei.rest.domain.Book;
 
 @Path("/books")
 public class BooksResource {

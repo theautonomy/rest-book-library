@@ -1,4 +1,4 @@
-package org.weili.rest.resources;
+package org.wei.rest.resources;
 
 import javax.ws.rs.Consumes;
 import javax.ws.rs.DELETE;
@@ -10,8 +10,8 @@ import javax.ws.rs.core.Response;
 import javax.ws.rs.core.Response.Status;
 import javax.ws.rs.core.UriInfo;
 
-import org.weili.rest.dao.IBookDAO;
-import org.weili.rest.domain.Book;
+import org.wei.rest.dao.IBookDAO;
+import org.wei.rest.domain.Book;
 
 public class BookResource {
 

@@ -1,4 +1,4 @@
-package org.weili.rest.domain;
+package org.wei.rest.domain;
 
 public class Book {
 	

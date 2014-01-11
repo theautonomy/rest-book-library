@@ -1,8 +1,8 @@
-package org.weili.rest.dao;
+package org.wei.rest.dao;
 
 import java.util.ArrayList;
 
-import org.weili.rest.domain.Book;
+import org.wei.rest.domain.Book;
 
 public class InMemoryBookDAO implements IBookDAO {
 
