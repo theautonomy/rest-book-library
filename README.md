@@ -15,6 +15,8 @@ which uses JQuery ajax api to call the back end restful services.
 
 * See it in action at: http://mybooks.weili.cloudbees.net/books.html
 
+* See an introduction to restful web service presentation at: http://www.slideshare.net/weili_at_slideshare/introduction-to-res-tful-web-services
+
 
  
  
